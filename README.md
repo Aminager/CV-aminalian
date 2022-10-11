@@ -3,7 +3,7 @@
 A clean CV template in LaTeX along with a GitHub action that complies the `*.tex` file and publishes a new PDF version when new changes are pushed to the repo
 
 # My CV
-Please visit https://aminager.github.io/CV-aminalian/ to find my CV!
+Please visit https://aminager.github.io/CV-aminalian/cv.pdf to find my CV!
 
 ## Template Design
 
